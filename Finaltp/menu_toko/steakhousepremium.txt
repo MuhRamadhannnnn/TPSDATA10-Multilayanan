@@ -1,0 +1,5 @@
+=== Steak House Premium ===
+1. Beef Steak - Rp 55000
+2. Chicken Steak - Rp 45000
+3. Red Wine Mocktail - Rp 25000
+4. Lemon Tea - Rp 12000

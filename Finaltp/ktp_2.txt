@@ -1,0 +1,18 @@
+========== DATA KTP ==========
+Username         : 2
+NIK              : 1234567812345678
+Nama             : dunas
+Tempat Lahir     : binjai
+Tanggal Lahir    : 31 01 2006
+Jenis Kelamin    : L
+Alamat           : binjai
+RT/RW            : 04/03
+Kelurahan        : binjai
+Kecamatan        : binjai
+Kabupaten/Kota   : binjai
+Provinsi         : binjai
+Agama            : islam
+Status Perkawinan: belum menikah
+Pekerjaan        : apa ajalah
+Kewarganegaraan  : WNI
+==============================

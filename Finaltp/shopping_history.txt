@@ -1,0 +1,12 @@
+--- STRUK BELANJA ---
+Kaos Polos x2 = Rp 150000
+Total = Rp 150000
+Ongkir = Rp 16000
+Grand Total = Rp 166000
+
+--- STRUK BELANJA ---
+Kaos Polos x2 = Rp 150000
+Total = Rp 150000
+Ongkir = Rp 10000
+Grand Total = Rp 160000
+

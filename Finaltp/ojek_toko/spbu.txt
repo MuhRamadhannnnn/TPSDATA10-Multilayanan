@@ -1,0 +1,6 @@
+=== Ke Pom Bensin (SPBU) ===
+1. SPBU Jalan Gatot Subroto - 9 km - Rp 45000
+2. SPBU Jalan Rasuna Said - 8 km - Rp 40000
+3. SPBU Jalan Sudirman - 6 km - Rp 30000
+4. SPBU Jalan Thamrin - 5 km - Rp 25000
+5. SPBU Jalan MH Thamrin - 7 km - Rp 35000
