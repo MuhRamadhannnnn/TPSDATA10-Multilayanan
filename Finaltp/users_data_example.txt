@@ -1,8 +1,0 @@
-// Contoh data format file users_data.txt
-// Format: username|encrypted_password|nik|nama|tempat_lahir|tanggal_lahir|jenis_kelamin|alamat|rt|rw|kelurahan|kecamatan|kabupaten|provinsi|agama|status_perkawinan|pekerjaan|kewarganegaraan
-
-// File ini akan otomatis dibuat saat registrasi pertama kali
-// Jangan edit manual kecuali Anda tahu format yang benar
-
-// Contoh entry (password sudah terenkripsi):
-// john|?KIIJFHE|3201234567890123|John Doe|Jakarta|01/01/1990|L|Jl. Sudirman No. 123|001|002|Menteng|Menteng|Jakarta Pusat|DKI Jakarta|Islam|Belum Kawin|Mahasiswa|WNI

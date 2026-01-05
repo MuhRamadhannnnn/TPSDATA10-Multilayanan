@@ -1,5 +1,0 @@
-=== Ke Stasiun ===
-1. Stasiun Kota - 4 km - Rp 20000
-2. Stasiun Sentral - 5 km - Rp 25000
-3. Stasiun Gambir - 6 km - Rp 30000
-4. Stasiun Pasar Senen - 7 km - Rp 35000
